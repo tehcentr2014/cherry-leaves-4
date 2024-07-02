@@ -15,4 +15,5 @@ node_modules/
 cloudinary_python.txt
 *.zip
 /inputs/cherry_dataset/cherry-leaves/validation/*
+malaria_detector_model.h5
 
